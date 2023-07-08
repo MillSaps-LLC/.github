@@ -9,9 +9,9 @@ As MillSaps, our aim is to raise awareness and increase the quality of life with
 As a Millsaps company, we use the languages and tools listed in the table.
 | AREA | USING |
 | :--------: | :--------- |
-| **FE** | NextJS • ReactJS • JavaScript • Bootstrap • TailwindCSS • NextUI • Sass |
+| **FE** | NextJS • ReactJS • TypeScript • JavaScript • StyledComponents |
 | **MOBILE** | Swift • React Native • Dart
 | **DESIGN** | Figma • Sketch
 | **PACKAGE MANAGEMENT** | YARN • NPM (Rarely) • Homebrew
 
-🤔 If you have questions, send email us [millsaps@millsaps.tech](mailto:millsaps@millsaps.tech)
+🤔 If you have questions, send a message to us!
