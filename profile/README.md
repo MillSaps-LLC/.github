@@ -7,12 +7,15 @@ As MillSaps, our aim is to raise awareness and increase the quality of life with
 ## Which technologies we use
 
 As a Millsaps company, we use the languages and tools listed in the table.
-| AREA | USING |
+| AREA | TECHNOLOGIES |
 | :--------: | :--------- |
 | **FE** | NextJS • ReactJS • TypeScript • JavaScript • StyledComponents |
 | **MOBILE** | Swift • React Native • Dart
 | **DESIGN** | Figma • Sketch
 | **PACKAGE MANAGEMENT** | YARN • NPM • Homebrew
 
-🤔 If you have questions, send a message to us!
-![MillSaps OÜ Official Website](https://millsaps.eu/)
+## Upcoming Projects
+
+
+🤔 If you have questions, send a message to us! <br />
+[MillSaps Official Website](https://millsaps.eu)
