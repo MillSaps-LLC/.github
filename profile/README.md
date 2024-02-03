@@ -1,5 +1,4 @@
 # Heeyyy, welcome to MillSaps!
-![MillSaps OÜ Official Website](https://millsaps.eu/)
 
 As MillSaps, our aim is to raise awareness and increase the quality of life with different projects in the field of software and application. As in our slogan, we want you to feel the impact of the software more in your life. We will produce projects for this and present them to you.
 
@@ -16,3 +15,4 @@ As a Millsaps company, we use the languages and tools listed in the table.
 | **PACKAGE MANAGEMENT** | YARN • NPM • Homebrew
 
 🤔 If you have questions, send a message to us!
+![MillSaps OÜ Official Website](https://millsaps.eu/)
