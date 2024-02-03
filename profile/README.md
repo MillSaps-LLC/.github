@@ -1,8 +1,9 @@
 # Heeyyy, welcome to MillSaps!
+![MillSaps OÜ Official Website](https://millsaps.eu/)
 
 As MillSaps, our aim is to raise awareness and increase the quality of life with different projects in the field of software and application. As in our slogan, we want you to feel the impact of the software more in your life. We will produce projects for this and present them to you.
 
-<iframe src="https://giphy.com/embed/UcK7JalnjCz0k" width="600" height="4500" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-hackny-UcK7JalnjCz0k">via GIPHY</a></p>
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl5cmJlbWQ0dWpkeXZxdHowbHAwdWVkYjA4NnFzOHU5aW9zMzFoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif)
 
 ## Which technologies we use
 
