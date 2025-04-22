@@ -1,20 +1,16 @@
 # Heeyyy, welcome to MillSaps!
 
-As MillSaps, our aim is to raise awareness and increase the quality of life with different projects in the field of software and application. As in our slogan, we want you to feel the impact of the software more in your life. We will produce projects for this and present them to you.
+At MillSaps, we believe the only limits that exist are those we set for ourselves. Guided by our motto, "Redefining What's Possible," we push the boundaries of innovation to transform bold ideas into groundbreaking solutions. Our dynamic team combines cutting-edge technology with creative vision to turn challenges into opportunities—empowering businesses, communities, and individuals to thrive in an ever-evolving landscape.
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl5cmJlbWQ0dWpkeXZxdHowbHAwdWVkYjA4NnFzOHU5aW9zMzFoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif)
 
-## Upcoming Projects
-<img src="https://github.com/MillSaps-LLC/.github/blob/main/profile/viddle.jpg" width="160" />
-<img src="https://github.com/MillSaps-LLC/.github/blob/main/profile/streamline.png" width="200" />
-
-## Which technologies we use
+## What technologies we use
 
 As a Millsaps company, we use the languages and tools listed in the table.
 | AREA | TECHNOLOGIES |
 | :--------: | :--------- |
-| **FE** | NextJS • ReactJS • TypeScript • JavaScript • StyledComponents |
-| **MOBILE** | Swift • React Native • Dart
+| **FE** | NextJS • ReactJS • TypeScript • JavaScript • SCSS •  |
+| **MOBILE** | React Native
 | **DESIGN** | Figma • Sketch
 | **PACKAGE MANAGEMENT** | YARN • NPM • Homebrew
 
